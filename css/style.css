@@ -2969,7 +2969,7 @@ a.logo:hover{
 }
 .team-item-image img{
     width: 100%;
-	border-radius: 50%;
+	border-radius: 100%;
 }
 .team-item-image:after{
 	content: " ";
