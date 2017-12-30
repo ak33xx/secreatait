@@ -145,7 +145,7 @@ Main Components
           transform: translateX(-50%) translateY(-50%);
   height: 100%;
   width: 100%;
-  background: url(../img/cd-icons-cart-close.svg) no-repeat 0 0;
+  background: url(../images/cd-icons-cart-close.svg) no-repeat 0 0;
   -webkit-transition: opacity .2s, -webkit-transform .2s;
   transition: opacity .2s, -webkit-transform .2s;
   transition: opacity .2s, transform .2s;
@@ -358,7 +358,7 @@ Main Components
   content: '';
   height: 24px;
   width: 24px;
-  background: url(../img/cd-icon-arrow-next.svg) no-repeat center center;
+  background: url(../images/cd-icon-arrow-next.svg) no-repeat center center;
   opacity: 0;
   -webkit-transition: opacity .2s;
   transition: opacity .2s;
@@ -510,7 +510,7 @@ Main Components
   display: block;
   width: 12px;
   height: 12px;
-  background: url(../img/cd-icon-select.svg) no-repeat center center;
+  background: url(../images/cd-icon-select.svg) no-repeat center center;
   pointer-events: none;
 }
 .cd-cart select {
